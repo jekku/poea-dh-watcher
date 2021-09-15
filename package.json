@@ -1,0 +1,12 @@
+{
+  "name": "poea-dh-watcher",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/jekku/poea-dh-watcher",
+  "author": "Jekri Preclaro Orlina",
+  "license": "MIT",
+  "dependencies": {
+    "node-notifier": "^10.0.0",
+    "puppeteer": "^10.2.0"
+  }
+}
